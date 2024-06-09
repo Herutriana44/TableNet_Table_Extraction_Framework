@@ -7,4 +7,3 @@ tqdm
 Pillow
 opencv-python-headless
 pytesseract
-streamlit
