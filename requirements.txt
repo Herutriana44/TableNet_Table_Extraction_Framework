@@ -5,3 +5,4 @@ Pillow
 opencv-python-headless
 pytesseract
 streamlit
+matplotlib
