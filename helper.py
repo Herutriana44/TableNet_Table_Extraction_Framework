@@ -9,7 +9,7 @@ from time import strftime
 import pytesseract
 import tensorflow as tf
 
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+# pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe" # For Windows
 
 def load_interpreter(model_path=None):
     """
