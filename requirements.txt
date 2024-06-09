@@ -1,9 +1,7 @@
-os
-re
 numpy
-csv
 pandas
 tqdm
 Pillow
 opencv-python-headless
 pytesseract
+streamlit
